@@ -48,7 +48,7 @@ logger:
 
 i2c:
   sda: 21
-  scl: 22
+  scl: 20
 
 # Sensor is configured separately from Roode people counting algorithm
 vl53l1x:
